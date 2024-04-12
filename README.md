@@ -68,13 +68,22 @@
 
 |     | DATE       | TOPIC                         |
 | :-- | :--------- | :---------------------------- |
-| [x] | 2024/04/11 | [8. String to Integer (atoi)] |
+| [x] | 2024/04/12 | [8. String to Integer (atoi)] |
+
+### Two Pointers
+
+|     | DATE       | TOPIC                              |
+| :-- | :--------- | :--------------------------------- |
+| [x] | 2024/04/12 | [42. Trapping Rain Water]          |
+| []  | 2024/04/15 | [5. Longest Palindromic Substring] |
+
+### Array
+
+|     | DATE       | TOPIC                                     |
+| :-- | :--------- | :---------------------------------------- |
+| [x] | 2024/04/12 | [26. Remove Duplicates from Sorted Array] |
 
 ### Dynamic Programming
-
-|     | DATE       | TOPIC                   |
-| :-- | :--------- | :---------------------- |
-| []  | 2024/04/12 | 42. Trapping Rain Water |
 
 ### Linked List
 
@@ -87,8 +96,6 @@
 | :-- | :--- | :---- |
 
 ---
-
-### Array
 
 ### Sorting
 
@@ -107,8 +114,6 @@
 ### Matrix
 
 ### Bit Manipulation
-
-### Two Pointers
 
 ### Heap (Priority Queue)
 
