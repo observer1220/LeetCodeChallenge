@@ -20,10 +20,10 @@
 ### Hash Table 雜湊表
 
 |     | DATE       | TOPIC                     |
-| :-- | :--------- | :------------------------ |
+| :-- | :--------- | :------------------------ | ---------- |
 | [x] | 2024/03/27 | [1. Two Sum]              |
 | [x] | 2024/03/27 | [13. Roman to Integer]    |
-| [x] | 2024/04/01 | [36. Valid Sudoku]        |
+| [x] | 2024/04/01 | [36. Valid Sudoku]        | 不完全理解 |
 | [x] | 2024/04/02 | [205. Isomorphic Strings] |
 
 ### Binary Tree 二元樹
@@ -60,44 +60,59 @@
 
 ### Math
 
-|     | DATE       | TOPIC                |
-| :-- | :--------- | :------------------- |
-| [x] | 2024/04/11 | [7. Reverse Integer] |
+|     | DATE       | TOPIC                 |
+| :-- | :--------- | :-------------------- |
+| [x] | 2024/04/11 | [7. Reverse Integer]  |
+| [x] | 2024/04/17 | [70. Climbing Stairs] |
 
 ### String
 
 |     | DATE       | TOPIC                         |
-| :-- | :--------- | :---------------------------- |
-| [x] | 2024/04/12 | [8. String to Integer (atoi)] |
+| :-- | :--------- | :---------------------------- | ---------- |
+| [x] | 2024/04/12 | [8. String to Integer (atoi)] | 不完全理解 |
 
 ### Two Pointers
 
 |     | DATE       | TOPIC                              |
-| :-- | :--------- | :--------------------------------- |
+| :-- | :--------- | :--------------------------------- | ---------- |
 | [x] | 2024/04/12 | [42. Trapping Rain Water]          |
-| []  | 2024/04/15 | [5. Longest Palindromic Substring] |
+| [x] | 2024/04/16 | [5. Longest Palindromic Substring] | 不完全理解 |
+| [x] | 2024/04/17 | [9. Palindrome Number]             |
 
 ### Array
 
 |     | DATE       | TOPIC                                     |
 | :-- | :--------- | :---------------------------------------- |
 | [x] | 2024/04/12 | [26. Remove Duplicates from Sorted Array] |
+| [x] | 2024/04/17 | [88. Merge Sorted Array]                  |
+| [x] | 2024/04/17 | [27. Remove Element]                      |
+
+### Sorting
+
+|     | DATE | TOPIC |
+| :-- | :--- | :---- |
+| []  |      | []    |
+| []  |      | []    |
 
 ### Dynamic Programming
+
+|     | DATE | TOPIC |
+| :-- | :--- | :---- |
+| []  |      | []    |
 
 ### Linked List
 
 |     | DATE | TOPIC |
 | :-- | :--- | :---- |
+| []  |      | []    |
 
 ### Quickselect
 
 |     | DATE | TOPIC |
 | :-- | :--- | :---- |
+| []  |      | []    |
 
 ---
-
-### Sorting
 
 ### Greedy
 

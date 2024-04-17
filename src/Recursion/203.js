@@ -1,4 +1,4 @@
-import { createLinkedListFromArray } from "./tools/utils.js";
+import { createLinkedListFromArray } from "../../tools/utils.js";
 /**
  * @param {ListNode} head
  * @param {number} val
