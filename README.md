@@ -61,9 +61,9 @@
 ### Math
 
 |     | DATE       | TOPIC                 |
-| :-- | :--------- | :-------------------- |
+| :-- | :--------- | :-------------------- | ------------------ |
 | [x] | 2024/04/11 | [7. Reverse Integer]  |
-| [x] | 2024/04/17 | [70. Climbing Stairs] |
+| [x] | 2024/04/17 | [70. Climbing Stairs] | Fibonacci Sequence |
 
 ### String
 
@@ -86,6 +86,7 @@
 | [x] | 2024/04/12 | [26. Remove Duplicates from Sorted Array] |
 | [x] | 2024/04/17 | [88. Merge Sorted Array]                  |
 | [x] | 2024/04/17 | [27. Remove Element]                      |
+| []  | 2024/04/17 | [66. Plus One]                            |
 
 ### Sorting
 
