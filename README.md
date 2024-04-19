@@ -28,10 +28,11 @@
 
 ### Binary Tree 二元樹
 
-|     | DATE       | TOPIC                 |
-| :-- | :--------- | :-------------------- |
-| [x] | 2024/04/03 | [100. Same Tree]      |
-| [x] | 2024/04/03 | [101. Symmetric Tree] |
+|     | DATE       | TOPIC                               |
+| :-- | :--------- | :---------------------------------- |
+| [x] | 2024/04/03 | [100. Same Tree]                    |
+| [x] | 2024/04/03 | [101. Symmetric Tree]               |
+| [x] | 2024/04/19 | [104. Maximum Depth of Binary Tree] |
 
 ### Queue 佇列
 
@@ -86,7 +87,11 @@
 | [x] | 2024/04/12 | [26. Remove Duplicates from Sorted Array] |
 | [x] | 2024/04/17 | [88. Merge Sorted Array]                  |
 | [x] | 2024/04/17 | [27. Remove Element]                      |
-| []  | 2024/04/17 | [66. Plus One]                            |
+| [x] | 2024/04/17 | [66. Plus One]                            |
+| [x] | 2024/04/18 | [463. Island Perimeter]                   |
+| [x] | 2024/04/19 | [200. Number of Islands]                  |
+| [x] | 2024/04/19 | [4. Median of Two Sorted Arrays]          |
+| []  | 2024/04/19 | [403. Frog Jump]                          |
 
 ### Sorting
 
@@ -103,9 +108,9 @@
 
 ### Linked List
 
-|     | DATE | TOPIC |
-| :-- | :--- | :---- |
-| []  |      | []    |
+|     | DATE       | TOPIC                |
+| :-- | :--------- | :------------------- | ---------- |
+| [x] | 2024/04/18 | [2. Add Two Numbers] | 不完全理解 |
 
 ### Quickselect
 
