@@ -19,104 +19,105 @@
 
 ### Hash Table 雜湊表
 
-|     | DATE       | TOPIC                     |
-| :-- | :--------- | :------------------------ | ---------- |
-| [x] | 2024/03/27 | [1. Two Sum]              |
-| [x] | 2024/03/27 | [13. Roman to Integer]    |
+|     | DATE       | TOPIC                     | Remark     |
+| :-- | :--------- | :------------------------ | :--------- |
+| [x] | 2024/03/27 | [1. Two Sum]              |            |
+| [x] | 2024/03/27 | [13. Roman to Integer]    |            |
 | [x] | 2024/04/01 | [36. Valid Sudoku]        | 不完全理解 |
-| [x] | 2024/04/02 | [205. Isomorphic Strings] |
+| [x] | 2024/04/02 | [205. Isomorphic Strings] |            |
 
 ### Binary Tree 二元樹
 
-|     | DATE       | TOPIC                               |
-| :-- | :--------- | :---------------------------------- |
-| [x] | 2024/04/03 | [100. Same Tree]                    |
-| [x] | 2024/04/03 | [101. Symmetric Tree]               |
-| [x] | 2024/04/19 | [104. Maximum Depth of Binary Tree] |
+|     | DATE       | TOPIC                               | Remark |
+| :-- | :--------- | :---------------------------------- | :----- |
+| [x] | 2024/04/03 | [100. Same Tree]                    |        |
+| [x] | 2024/04/03 | [101. Symmetric Tree]               |        |
+| [x] | 2024/04/19 | [104. Maximum Depth of Binary Tree] |        |
 
 ### Queue 佇列
 
-|     | DATE       | TOPIC                                          |
-| :-- | :--------- | :--------------------------------------------- |
-| [x] | 2024/04/08 | [225. Implement Stack using Queues]            |
-| [x] | 2024/04/08 | [1700. Number of Students Unable to Eat Lunch] |
-| [x] | 2024/04/09 | [2073. Time Needed to Buy Tickets]             |
-| [x] | 2024/04/10 | [950. Reveal Cards In Increasing Order]        |
+|     | DATE       | TOPIC                                          | Remark |
+| :-- | :--------- | :--------------------------------------------- | :----- |
+| [x] | 2024/04/08 | [225. Implement Stack using Queues]            |        |
+| [x] | 2024/04/08 | [1700. Number of Students Unable to Eat Lunch] |        |
+| [x] | 2024/04/09 | [2073. Time Needed to Buy Tickets]             |        |
+| [x] | 2024/04/10 | [950. Reveal Cards In Increasing Order]        |        |
 
 ### Stack 堆棧
 
-|     | DATE       | TOPIC                           |
-| :-- | :--------- | :------------------------------ |
-| [x] | 2024/04/09 | [20. Valid Parentheses]         |
-| [x] | 2024/04/09 | [71. Simplify Path]             |
-| [x] | 2024/04/10 | [316. Remove Duplicate Letters] |
-| [x] | 2024/04/11 | [402. Remove K Digits]          |
+|     | DATE       | TOPIC                           | Remark |
+| :-- | :--------- | :------------------------------ | :----- |
+| [x] | 2024/04/09 | [20. Valid Parentheses]         |        |
+| [x] | 2024/04/09 | [71. Simplify Path]             |        |
+| [x] | 2024/04/10 | [316. Remove Duplicate Letters] |        |
+| [x] | 2024/04/11 | [402. Remove K Digits]          |        |
 
 ### Recursion
 
-|     | DATE       | TOPIC                              |
-| :-- | :--------- | :--------------------------------- |
-| [x] | 2024/04/10 | [21. Merge Two Sorted Lists]       |
-| [x] | 2024/04/11 | [203. Remove Linked List Elements] |
+|     | DATE       | TOPIC                              | Remark |
+| :-- | :--------- | :--------------------------------- | :----- |
+| [x] | 2024/04/10 | [21. Merge Two Sorted Lists]       |        |
+| [x] | 2024/04/11 | [203. Remove Linked List Elements] |        |
 
 ### Math
 
-|     | DATE       | TOPIC                 |
-| :-- | :--------- | :-------------------- | ------------------ |
-| [x] | 2024/04/11 | [7. Reverse Integer]  |
+|     | DATE       | TOPIC                 | Remark             |
+| :-- | :--------- | :-------------------- | :----------------- |
+| [x] | 2024/04/11 | [7. Reverse Integer]  |                    |
 | [x] | 2024/04/17 | [70. Climbing Stairs] | Fibonacci Sequence |
 
 ### String
 
-|     | DATE       | TOPIC                         |
-| :-- | :--------- | :---------------------------- | ---------- |
+|     | DATE       | TOPIC                         | Remark     |
+| :-- | :--------- | :---------------------------- | :--------- |
 | [x] | 2024/04/12 | [8. String to Integer (atoi)] | 不完全理解 |
 
 ### Two Pointers
 
-|     | DATE       | TOPIC                              |
-| :-- | :--------- | :--------------------------------- | ---------- |
-| [x] | 2024/04/12 | [42. Trapping Rain Water]          |
+|     | DATE       | TOPIC                              | Remark     |
+| :-- | :--------- | :--------------------------------- | :--------- |
+| [x] | 2024/04/12 | [42. Trapping Rain Water]          |            |
 | [x] | 2024/04/16 | [5. Longest Palindromic Substring] | 不完全理解 |
-| [x] | 2024/04/17 | [9. Palindrome Number]             |
+| [x] | 2024/04/17 | [9. Palindrome Number]             |            |
 
 ### Array
 
-|     | DATE       | TOPIC                                     |
-| :-- | :--------- | :---------------------------------------- |
-| [x] | 2024/04/12 | [26. Remove Duplicates from Sorted Array] |
-| [x] | 2024/04/17 | [88. Merge Sorted Array]                  |
-| [x] | 2024/04/17 | [27. Remove Element]                      |
-| [x] | 2024/04/17 | [66. Plus One]                            |
-| [x] | 2024/04/18 | [463. Island Perimeter]                   |
-| [x] | 2024/04/19 | [200. Number of Islands]                  |
-| [x] | 2024/04/19 | [4. Median of Two Sorted Arrays]          |
-| []  | 2024/04/19 | [403. Frog Jump]                          |
+|     | DATE       | TOPIC                                     | Remark |
+| :-- | :--------- | :---------------------------------------- | :----- |
+| [x] | 2024/04/12 | [26. Remove Duplicates from Sorted Array] |        |
+| [x] | 2024/04/17 | [88. Merge Sorted Array]                  |        |
+| [x] | 2024/04/17 | [27. Remove Element]                      |        |
+| [x] | 2024/04/17 | [66. Plus One]                            |        |
+| [x] | 2024/04/18 | [463. Island Perimeter]                   |        |
+| [x] | 2024/04/19 | [200. Number of Islands]                  |        |
+| [x] | 2024/04/19 | [4. Median of Two Sorted Arrays]          |        |
+| []  | 2024/04/19 | [403. Frog Jump]                          |        |
 
 ### Sorting
 
-|     | DATE | TOPIC |
-| :-- | :--- | :---- |
-| []  |      | []    |
-| []  |      | []    |
+|     | DATE | TOPIC | Remark |
+| :-- | :--- | :---- | :----- |
+| []  |      | []    |        |
+| []  |      | []    |        |
 
 ### Dynamic Programming
 
-|     | DATE | TOPIC |
-| :-- | :--- | :---- |
-| []  |      | []    |
+|     | DATE | TOPIC | Remark |
+| :-- | :--- | :---- | :----- |
+| []  |      | []    |        |
+| []  |      | []    |        |
 
 ### Linked List
 
-|     | DATE       | TOPIC                |
-| :-- | :--------- | :------------------- | ---------- |
+|     | DATE       | TOPIC                | Remark     |
+| :-- | :--------- | :------------------- | :--------- |
 | [x] | 2024/04/18 | [2. Add Two Numbers] | 不完全理解 |
 
 ### Quickselect
 
-|     | DATE | TOPIC |
-| :-- | :--- | :---- |
-| []  |      | []    |
+|     | DATE | TOPIC | Remark |
+| :-- | :--- | :---- | :----- |
+| []  |      | []    |        |
 
 ---
 
