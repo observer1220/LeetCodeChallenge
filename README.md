@@ -14,8 +14,9 @@
 
 1. 有些題目看起來很簡單，但實際上有很多陷阱，建議仔細看過題目再開始解題。
 2. Test Case 有很多 Exception，建議解題過程盡量降低耦合度，以避免出錯時要大改。
+3. 部分問題即使看過解答還是不理解原理(例如 752、403)，建議先跳過並在 Remark 備註就好，避免過度內耗導致學習停滯。
 
-目標：17/100
+目標：46/120
 
 ### Hash Table 雜湊表
 
@@ -25,6 +26,7 @@
 | [x] | 2024/03/27 | [13. Roman to Integer]    |            |
 | [x] | 2024/04/01 | [36. Valid Sudoku]        | 不完全理解 |
 | [x] | 2024/04/02 | [205. Isomorphic Strings] |            |
+| [x] | 2024/04/22 | [752. Open the Lock]      | 不完全理解 |
 
 ### Binary Tree 二元樹
 
@@ -61,16 +63,19 @@
 
 ### Math
 
-|     | DATE       | TOPIC                 | Remark             |
-| :-- | :--------- | :-------------------- | :----------------- |
-| [x] | 2024/04/11 | [7. Reverse Integer]  |                    |
-| [x] | 2024/04/17 | [70. Climbing Stairs] | Fibonacci Sequence |
+|     | DATE       | TOPIC                          | Remark |
+| :-- | :--------- | :----------------------------- | :----- |
+| [x] | 2024/04/11 | [7. Reverse Integer]           |        |
+| [x] | 2024/04/24 | [1137. N-th Tribonacci Number] |        |
+| []  |            | []                             |        |
 
 ### String
 
 |     | DATE       | TOPIC                         | Remark     |
 | :-- | :--------- | :---------------------------- | :--------- |
 | [x] | 2024/04/12 | [8. String to Integer (atoi)] | 不完全理解 |
+| [x] | 2024/04/22 | [93. Restore IP Addresses ]   | 一知半解   |
+| []  |            | []                            |            |
 
 ### Two Pointers
 
@@ -91,7 +96,6 @@
 | [x] | 2024/04/18 | [463. Island Perimeter]                   |        |
 | [x] | 2024/04/19 | [200. Number of Islands]                  |        |
 | [x] | 2024/04/19 | [4. Median of Two Sorted Arrays]          |        |
-| []  | 2024/04/19 | [403. Frog Jump]                          |        |
 
 ### Sorting
 
@@ -102,10 +106,11 @@
 
 ### Dynamic Programming
 
-|     | DATE | TOPIC | Remark |
-| :-- | :--- | :---- | :----- |
-| []  |      | []    |        |
-| []  |      | []    |        |
+|     | DATE       | TOPIC                 | Remark                  |
+| :-- | :--------- | :-------------------- | :---------------------- |
+| [x] | 2024/04/17 | [70. Climbing Stairs] | Fibonacci Sequence      |
+| [x] | 2024/04/22 | [403. Frog Jump]      | DP 動態規劃，不完全理解 |
+| []  |            | []                    |                         |
 
 ### Linked List
 
@@ -118,6 +123,41 @@
 |     | DATE | TOPIC | Remark |
 | :-- | :--- | :---- | :----- |
 | []  |      | []    |        |
+
+### 30 days of JavaScript
+
+|     | DATE       | TOPIC                                              | Remark   |
+| :-- | :--------- | :------------------------------------------------- | :------- |
+| [x] | 2024/04/23 | [2667. Create Hello World Function]                |          |
+| [x] | 2024/04/23 | [2620. Counter ]                                   |          |
+| [x] | 2024/04/23 | [2704. To Be Or Not To Be]                         |          |
+| [x] | 2024/04/23 | [2665. Counter II]                                 |          |
+| [x] | 2024/04/23 | [2635. Apply Transform Over Each Element in Array] |          |
+| [x] | 2024/04/23 | [2634. Filter Elements from Array]                 |          |
+| [x] | 2024/04/23 | [2626. Array Reduce Transformation]                |          |
+| [x] | 2024/04/23 | [2629. Function Composition]                       | 複合函式 |
+| [x] | 2024/04/23 | [2703. Return Length of Arguments Passed]          |          |
+| [x] | 2024/04/24 | [2666. Allow One Function Call]                    |          |
+| [x] | 2024/04/24 | [2623. Memoize]                                    |          |
+| []  | 2024/04/24 | []                                                 |          |
+| []  | 2024/04/24 | []                                                 |          |
+| []  |            | []                                                 |          |
+| []  |            | []                                                 |          |
+| []  |            | []                                                 |          |
+| []  |            | []                                                 |          |
+| []  |            | []                                                 |          |
+| []  |            | []                                                 |          |
+| []  |            | []                                                 |          |
+| []  |            | []                                                 |          |
+| []  |            | []                                                 |          |
+| []  |            | []                                                 |          |
+| []  |            | []                                                 |          |
+| []  |            | []                                                 |          |
+| []  |            | []                                                 |          |
+| []  |            | []                                                 |          |
+| []  |            | []                                                 |          |
+| []  |            | []                                                 |          |
+| []  |            | []                                                 |          |
 
 ---
 
