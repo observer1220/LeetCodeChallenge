@@ -128,38 +128,38 @@
 
 ### 30 days of JavaScript
 
-|     | DATE       | TOPIC                                              | Remark   |
-| :-- | :--------- | :------------------------------------------------- | :------- |
-| [x] | 2024/04/23 | [2667. Create Hello World Function]                |          |
-| [x] | 2024/04/23 | [2620. Counter ]                                   |          |
-| [x] | 2024/04/23 | [2704. To Be Or Not To Be]                         |          |
-| [x] | 2024/04/23 | [2665. Counter II]                                 |          |
-| [x] | 2024/04/23 | [2635. Apply Transform Over Each Element in Array] |          |
-| [x] | 2024/04/23 | [2634. Filter Elements from Array]                 |          |
-| [x] | 2024/04/23 | [2626. Array Reduce Transformation]                |          |
-| [x] | 2024/04/23 | [2629. Function Composition]                       | 複合函式 |
-| [x] | 2024/04/23 | [2703. Return Length of Arguments Passed]          |          |
-| [x] | 2024/04/24 | [2666. Allow One Function Call]                    |          |
-| [x] | 2024/04/24 | [2623. Memoize]                                    |          |
-| [x] | 2024/04/25 | [2723. Add Two Promises]                           |          |
-| [x] | 2024/04/25 | [2621. Sleep]                                      |          |
-| [x] | 2024/04/26 | [2715. Timeout Cancellation]                       |          |
-| [x] | 2024/04/26 | [2725. Interval Cancellation]                      |          |
-| [x] | 2024/04/29 | [2637. Promise Time Limit]                         |          |
-| [x] | 2024/04/29 | [2622. Cache With Time Limit]                      |          |
-| [x] | 2024/04/30 | [2627. Debounce]                                   | 防抖函式 |
-| []  | 2024/04/30 | [2721. Execute Asynchronous Functions in Parallel] |          |
-| []  |            | []                                                 |          |
-| []  |            | []                                                 |          |
-| []  |            | []                                                 |          |
-| []  |            | []                                                 |          |
-| []  |            | []                                                 |          |
-| []  |            | []                                                 |          |
-| []  |            | []                                                 |          |
-| []  |            | []                                                 |          |
-| []  |            | []                                                 |          |
-| []  |            | []                                                 |          |
-| []  |            | []                                                 |          |
+|     | DATE       | TOPIC                                              | Remark                            |
+| :-- | :--------- | :------------------------------------------------- | :-------------------------------- |
+| [x] | 2024/04/23 | [2667. Create Hello World Function]                | Closures                          |
+| [x] | 2024/04/23 | [2620. Counter ]                                   |                                   |
+| [x] | 2024/04/23 | [2704. To Be Or Not To Be]                         |                                   |
+| [x] | 2024/04/23 | [2665. Counter II]                                 |                                   |
+| [x] | 2024/04/23 | [2635. Apply Transform Over Each Element in Array] | Basic Array Transformations       |
+| [x] | 2024/04/23 | [2634. Filter Elements from Array]                 |                                   |
+| [x] | 2024/04/23 | [2626. Array Reduce Transformation]                |                                   |
+| [x] | 2024/04/23 | [2629. Function Composition]                       | 複合函式 Function Transformations |
+| [x] | 2024/04/23 | [2703. Return Length of Arguments Passed]          |                                   |
+| [x] | 2024/04/24 | [2666. Allow One Function Call]                    |                                   |
+| [x] | 2024/04/24 | [2623. Memoize]                                    |                                   |
+| [x] | 2024/04/25 | [2723. Add Two Promises]                           | Promises and Time                 |
+| [x] | 2024/04/25 | [2621. Sleep]                                      |                                   |
+| [x] | 2024/04/26 | [2715. Timeout Cancellation]                       |                                   |
+| [x] | 2024/04/26 | [2725. Interval Cancellation]                      |                                   |
+| [x] | 2024/04/29 | [2637. Promise Time Limit]                         |                                   |
+| [x] | 2024/04/29 | [2622. Cache With Time Limit]                      |                                   |
+| [x] | 2024/04/30 | [2627. Debounce]                                   | 防抖函式                          |
+| [x] | 2024/04/30 | [2721. Execute Asynchronous Functions in Parallel] |                                   |
+| [x] | 2024/04/30 | [2727. Is Object Empty]                            | JSON                              |
+| [x] | 2024/04/30 | [2677. Chunk Array]                                | Slice 方法                        |
+| []  | 2024/05/02 | [2619. Array PrototypeLast]                        |                                   |
+| []  |            | []                                                 |                                   |
+| []  |            | []                                                 |                                   |
+| []  |            | []                                                 |                                   |
+| []  |            | []                                                 |                                   |
+| []  |            | []                                                 |                                   |
+| []  |            | []                                                 |                                   |
+| []  |            | []                                                 |                                   |
+| []  |            | []                                                 |                                   |
 
 ### SQL_50 Database
 
