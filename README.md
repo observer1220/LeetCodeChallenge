@@ -151,10 +151,10 @@
 | [x] | 2024/04/30 | [2721. Execute Asynchronous Functions in Parallel] |                                   |
 | [x] | 2024/04/30 | [2727. Is Object Empty]                            | JSON                              |
 | [x] | 2024/04/30 | [2677. Chunk Array]                                | Slice 方法                        |
-| []  | 2024/05/02 | [2619. Array PrototypeLast]                        |                                   |
-| []  |            | []                                                 |                                   |
-| []  |            | []                                                 |                                   |
-| []  |            | []                                                 |                                   |
+| [x] | 2024/05/02 | [2619. Array PrototypeLast]                        |                                   |
+| [x] | 2024/05/03 | [2631. Group By]                                   | 空合併運算符                      |
+| [x] | 2024/05/03 | [2724. Sort By]                                    | 陣列方法 sort()                   |
+| [x] | 2024/05/07 | [2722. Join Two Arrays by ID]                      |                                   |
 | []  |            | []                                                 |                                   |
 | []  |            | []                                                 |                                   |
 | []  |            | []                                                 |                                   |
@@ -176,7 +176,7 @@
 | [x] | 2024/04/30 | [197. Rising Temperature]                                      | 比較運算子             |
 | [x] | 2024/04/30 | [1661. Average Time of Process per Machine]                    | INNER JOIN, ROUND, AVG |
 | [x] | 2024/04/30 | [577. Employee Bonus]                                          | LEFT JOIN              |
-| []  | 2024/04/30 | []                                                             |                        |
+| [x] | 2024/05/07 | [1280. Students and Examinations]                              | CROSS JOIN             |
 | []  |            | []                                                             |                        |
 | []  |            | []                                                             |                        |
 | []  |            | []                                                             |                        |
