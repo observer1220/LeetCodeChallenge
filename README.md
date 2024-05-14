@@ -16,7 +16,7 @@
 2. Test Case 有很多 Exception，建議解題過程盡量降低耦合度，以避免出錯時要大改。
 3. 部分問題即使看過解答還是不理解原理(例如 752、403)，建議先跳過並在 Remark 備註就好，避免過度內耗導致學習停滯。
 
-目標：46/120
+目標：87/120
 
 ### Hash Table 雜湊表
 
@@ -154,12 +154,12 @@
 | [x] | 2024/05/02 | [2619. Array PrototypeLast]                        |                                   |
 | [x] | 2024/05/03 | [2631. Group By]                                   | 空合併運算符                      |
 | [x] | 2024/05/03 | [2724. Sort By]                                    | 陣列方法 sort()                   |
-| [x] | 2024/05/07 | [2722. Join Two Arrays by ID]                      |                                   |
-| []  |            | []                                                 |                                   |
-| []  |            | []                                                 |                                   |
-| []  |            | []                                                 |                                   |
-| []  |            | []                                                 |                                   |
-| []  |            | []                                                 |                                   |
+| [x] | 2024/05/07 | [2722. Join Two Arrays by ID]                      | 經典題庫                          |
+| [x] | 2024/05/09 | [2625. Flatten Deeply Nested Array]                | 遞迴問題                          |
+| [x] | 2024/05/13 | [2705. Compact Object]                             |                                   |
+| [x] | 2024/05/13 | [2694. Event Emitter]                              | 事件發射器                        |
+| [x] | 2024/05/14 | [2695. Array Wrapper]                              |                                   |
+| [x] | 2024/05/14 | [2726. Calculator with Method Chaining]            | 計算機                            |
 
 ### SQL_50 Database
 
@@ -177,13 +177,13 @@
 | [x] | 2024/04/30 | [1661. Average Time of Process per Machine]                    | INNER JOIN, ROUND, AVG |
 | [x] | 2024/04/30 | [577. Employee Bonus]                                          | LEFT JOIN              |
 | [x] | 2024/05/07 | [1280. Students and Examinations]                              | CROSS JOIN             |
-| []  |            | []                                                             |                        |
-| []  |            | []                                                             |                        |
-| []  |            | []                                                             |                        |
-| []  |            | []                                                             |                        |
-| []  |            | []                                                             |                        |
-| []  |            | []                                                             |                        |
-| []  |            | []                                                             |                        |
+| [x] | 2024/05/09 | [570. Managers with at Least 5 Direct Reports]                 | INNER JOIN ,HAVING     |
+| [x] | 2024/05/09 | [1934. Confirmation Rate]                                      | ROUND, AVG ,CASE 條件  |
+| [x] | 2024/05/09 | [620. Not Boring Movies]                                       | ORDER BY DESC, 餘數%   |
+| [x] | 2024/05/10 | [1251. Average Selling Price]                                  | COALESCE 合併, BETWEEN |
+| [x] | 2024/05/10 | [1075. Project Employees I]                                    | LEFT JOIN, ROUND       |
+| [x] | 2024/05/10 | [1633. Percentage of Users Attended a Contest]                 | 子查詢                 |
+| []  |            | [1211. Queries Quality and Percentage]                         |                        |
 | []  |            | []                                                             |                        |
 | []  |            | []                                                             |                        |
 | []  |            | []                                                             |                        |
