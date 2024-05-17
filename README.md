@@ -183,9 +183,9 @@
 | [x] | 2024/05/10 | [1251. Average Selling Price]                                  | COALESCE 合併, BETWEEN |
 | [x] | 2024/05/10 | [1075. Project Employees I]                                    | LEFT JOIN, ROUND       |
 | [x] | 2024/05/10 | [1633. Percentage of Users Attended a Contest]                 | 子查詢                 |
-| []  |            | [1211. Queries Quality and Percentage]                         |                        |
-| []  |            | []                                                             |                        |
-| []  |            | []                                                             |                        |
+| [x] | 2024/05/14 | [1211. Queries Quality and Percentage]                         |                        |
+| [x] | 2024/05/16 | [1193. Monthly Transactions I]                                 | to_char()              |
+| [x] | 2024/05/16 | [1174. Immediate Food Delivery II]                             | CASE 條件式, IN 子查詢 |
 | []  |            | []                                                             |                        |
 | []  |            | []                                                             |                        |
 | []  |            | []                                                             |                        |
@@ -218,28 +218,28 @@
 
 ### LeetCode 75
 
-|     | DATE       | TOPIC                                      | Remark     |
-| :-- | :--------- | :----------------------------------------- | :--------- |
-| [x] | 2024/04/29 | [1768. Merge Strings Alternately]          |            |
-| [x] | 2024/04/29 | [1071. Greatest Common Divisor of Strings] | 最大公因數 |
-| []  |            | []                                         |            |
-| []  |            | []                                         |            |
-| []  |            | []                                         |            |
-| []  |            | []                                         |            |
-| []  |            | []                                         |            |
-| []  |            | []                                         |            |
-| []  |            | []                                         |            |
-| []  |            | []                                         |            |
-| []  |            | []                                         |            |
-| []  |            | []                                         |            |
-| []  |            | []                                         |            |
-| []  |            | []                                         |            |
-| []  |            | []                                         |            |
-| []  |            | []                                         |            |
-| []  |            | []                                         |            |
-| []  |            | []                                         |            |
-| []  |            | []                                         |            |
-| []  |            | []                                         |            |
+|     | DATE       | TOPIC                                            | Remark     |
+| :-- | :--------- | :----------------------------------------------- | :--------- |
+| [x] | 2024/04/29 | [1768. Merge Strings Alternately]                |            |
+| [x] | 2024/04/29 | [1071. Greatest Common Divisor of Strings]       | 最大公因數 |
+| [x] | 2024/05/16 | [1431. Kids With the Greatest Number of Candies] |            |
+| [x] | 2024/05/17 | [605. Can Place Flowers]                         |            |
+| []  |            | [606. Construct String from Binary Tree]         |            |
+| []  |            | []                                               |            |
+| []  |            | []                                               |            |
+| []  |            | []                                               |            |
+| []  |            | []                                               |            |
+| []  |            | []                                               |            |
+| []  |            | []                                               |            |
+| []  |            | []                                               |            |
+| []  |            | []                                               |            |
+| []  |            | []                                               |            |
+| []  |            | []                                               |            |
+| []  |            | []                                               |            |
+| []  |            | []                                               |            |
+| []  |            | []                                               |            |
+| []  |            | []                                               |            |
+| []  |            | []                                               |            |
 
 ---
 
