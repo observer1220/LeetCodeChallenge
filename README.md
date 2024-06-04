@@ -16,7 +16,7 @@
 2. Test Case 有很多 Exception，建議解題過程盡量降低耦合度，以避免出錯時要大改。
 3. 部分問題即使看過解答還是不理解原理(例如 752、403)，建議先跳過並在 Remark 備註就好，避免過度內耗導致學習停滯。
 
-目標：87/120
+目標：96/120
 
 ### Hash Table 雜湊表
 
@@ -27,6 +27,8 @@
 | [x] | 2024/04/01 | [36. Valid Sudoku]        | 不完全理解 |
 | [x] | 2024/04/02 | [205. Isomorphic Strings] |            |
 | [x] | 2024/04/22 | [752. Open the Lock]      | 不完全理解 |
+| [x] | 2024/05/18 | [202. Happy Number]       |            |
+| []  |            | []                        |            |
 
 ### Binary Tree 二元樹
 
@@ -35,6 +37,7 @@
 | [x] | 2024/04/03 | [100. Same Tree]                    |        |
 | [x] | 2024/04/03 | [101. Symmetric Tree]               |        |
 | [x] | 2024/04/19 | [104. Maximum Depth of Binary Tree] |        |
+| []  |            | []                                  |        |
 
 ### Queue 佇列
 
@@ -44,6 +47,7 @@
 | [x] | 2024/04/08 | [1700. Number of Students Unable to Eat Lunch] |        |
 | [x] | 2024/04/09 | [2073. Time Needed to Buy Tickets]             |        |
 | [x] | 2024/04/10 | [950. Reveal Cards In Increasing Order]        |        |
+| []  |            | []                                             |        |
 
 ### Stack 堆棧
 
@@ -53,6 +57,7 @@
 | [x] | 2024/04/09 | [71. Simplify Path]             |        |
 | [x] | 2024/04/10 | [316. Remove Duplicate Letters] |        |
 | [x] | 2024/04/11 | [402. Remove K Digits]          |        |
+| []  |            | []                              |        |
 
 ### Recursion
 
@@ -60,6 +65,7 @@
 | :-- | :--------- | :--------------------------------- | :----- |
 | [x] | 2024/04/10 | [21. Merge Two Sorted Lists]       |        |
 | [x] | 2024/04/11 | [203. Remove Linked List Elements] |        |
+| []  |            | []                                 |        |
 
 ### Math
 
@@ -218,28 +224,34 @@
 
 ### LeetCode 75
 
-|     | DATE       | TOPIC                                            | Remark     |
-| :-- | :--------- | :----------------------------------------------- | :--------- |
-| [x] | 2024/04/29 | [1768. Merge Strings Alternately]                |            |
-| [x] | 2024/04/29 | [1071. Greatest Common Divisor of Strings]       | 最大公因數 |
-| [x] | 2024/05/16 | [1431. Kids With the Greatest Number of Candies] |            |
-| [x] | 2024/05/17 | [605. Can Place Flowers]                         |            |
-| []  |            | [606. Construct String from Binary Tree]         |            |
-| []  |            | []                                               |            |
-| []  |            | []                                               |            |
-| []  |            | []                                               |            |
-| []  |            | []                                               |            |
-| []  |            | []                                               |            |
-| []  |            | []                                               |            |
-| []  |            | []                                               |            |
-| []  |            | []                                               |            |
-| []  |            | []                                               |            |
-| []  |            | []                                               |            |
-| []  |            | []                                               |            |
-| []  |            | []                                               |            |
-| []  |            | []                                               |            |
-| []  |            | []                                               |            |
-| []  |            | []                                               |            |
+|     | DATE       | TOPIC                                               | Remark                          |
+| :-- | :--------- | :-------------------------------------------------- | :------------------------------ |
+| [x] | 2024/04/29 | [1768. Merge Strings Alternately]                   |                                 |
+| [x] | 2024/04/29 | [1071. Greatest Common Divisor of Strings]          | 最大公因數                      |
+| [x] | 2024/05/16 | [1431. Kids With the Greatest Number of Candies]    |                                 |
+| [x] | 2024/05/17 | [605. Can Place Flowers]                            |                                 |
+| [x] | 2024/05/22 | [345. Reverse Vowels of a String]                   | 雙指針                          |
+| [x] | 2024/05/22 | [151. Reverse Words in a String]                    |                                 |
+| [x] | 2024/05/22 | [238. Product of Array Except Self]                 | 前綴乘積 x 後綴乘積，不完全理解 |
+| [x] | 2024/05/23 | [334. Increasing Triplet Subsequence]               | 三元運算                        |
+| [x] | 2024/05/23 | [443. String Compression]                           | 壓縮字串，不完全理解            |
+| [x] | 2024/05/24 | [283. Move Zeroes]                                  | 雙指針，解構賦值                |
+| [x] | 2024/05/24 | [392. Is Subsequence]                               | 雙指針                          |
+| [x] | 2024/05/27 | [11. Container With Most Water]                     | 最大水容器算法                  |
+| [x] | 2024/05/30 | [1679. Max Number of K-Sum Pairs]                   |                                 |
+| [x] | 2024/05/30 | [643. Maximum Average Subarray I]                   | 滑動窗口，不完全理解            |
+| [x] | 2024/06/02 | [1456. Maximum Number of Vowels in a Substring ...] | 滑動窗口                        |
+| [x] | 2024/06/04 | [1004. Max Consecutive Ones III]                    | 滑動窗口                        |
+| []  |            | [1493. Longest Subarray of 1's After Deleting...]   |                                 |
+| []  |            | []                                                  |                                 |
+| []  |            | []                                                  |                                 |
+| []  |            | []                                                  |                                 |
+| []  |            | []                                                  |                                 |
+| []  |            | []                                                  |                                 |
+| []  |            | []                                                  |                                 |
+| []  |            | []                                                  |                                 |
+| []  |            | []                                                  |                                 |
+| []  |            | []                                                  |                                 |
 
 ---
 
