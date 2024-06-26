@@ -2,13 +2,13 @@
 
 簡介：LeetCode 的總題數超過 3,000 題，在時間有限的情況下，挑選最常見的題型進行練習。
 
-在實作過程中，發現多數演算法的最佳解，皆根基於數學原理，是非專業背景者想破頭也想不出來的。
+在實作過程中，發現多數題目的最佳解，皆根基於數學原理，是非專業者想破頭也想不出來的。
 
 因此我的練習過程，會分為三階段：
 
-1. 暴力破解：使用最直覺的方法解題，並且在解題過程中，思考如何優化。
+1. 暴力破解：使用最直覺的方法解題。
 2. 演算法解：參考 Solution 的作法，嘗試理解箇中原理，並盡可能將解法背起來。
-3. 重新演練：相隔一段時間後，重新挑戰同一個題目，看自己是否能獨立解題。
+3. 重新演練：隔一段時間後，重新挑戰同一個題目，看自己是否能獨立解題。
 
 備註
 
@@ -16,7 +16,7 @@
 2. Test Case 有很多 Exception，建議解題過程盡量降低耦合度，以避免出錯時要大改。
 3. 部分問題即使看過解答還是不理解原理(例如 752、403)，建議先跳過並在 Remark 備註就好，避免過度內耗導致學習停滯。
 
-目標：96/120
+目標：115/120
 
 ### Hash Table 雜湊表
 
@@ -242,14 +242,18 @@
 | [x] | 2024/05/30 | [643. Maximum Average Subarray I]                   | 滑動窗口，不完全理解            |
 | [x] | 2024/06/02 | [1456. Maximum Number of Vowels in a Substring ...] | 滑動窗口                        |
 | [x] | 2024/06/04 | [1004. Max Consecutive Ones III]                    | 滑動窗口                        |
-| []  |            | [1493. Longest Subarray of 1's After Deleting...]   |                                 |
-| []  |            | []                                                  |                                 |
-| []  |            | []                                                  |                                 |
-| []  |            | []                                                  |                                 |
-| []  |            | []                                                  |                                 |
-| []  |            | []                                                  |                                 |
-| []  |            | []                                                  |                                 |
-| []  |            | []                                                  |                                 |
+| [x] | 2024/06/12 | [1493. Longest Subarray of 1's After Deleting...]   | 滑動窗口                        |
+| [x] | 2024/06/12 | [1732. Find the Highest Altitude]                   |                                 |
+| [x] | 2024/06/12 | [724. Find Pivot Index]                             |                                 |
+| [x] | 2024/06/12 | [2215. Find the Difference of Two Arrays]           |                                 |
+| [x] | 2024/06/12 | [1207. Unique Number of Occurrences]                |                                 |
+| [x] | 2024/06/22 | [1657. Determine if Two Strings Are Close]          |                                 |
+| [x] | 2024/06/24 | [2352. Equal Row and Column Pairs]                  | 紀錄 Columns 的方式很聰明       |
+| [x] | 2024/06/24 | [2390. Removing Stars From a String]                | 透過 push(), pop() 完成篩選     |
+| [x] | 2024/06/25 | [735. Asteroid Collision]                           | 不完全理解                      |
+| [x] | 2024/06/25 | [394. Decode String]                                | 不完全理解                      |
+| []  |            | [933. Number of Recent Calls]                       |                                 |
+| []  |            | [649. Dota2 Senate]                                 |                                 |
 | []  |            | []                                                  |                                 |
 | []  |            | []                                                  |                                 |
 
