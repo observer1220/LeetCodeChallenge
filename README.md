@@ -16,7 +16,7 @@
 2. Test Case 有很多 Exception，建議解題過程盡量降低耦合度，以避免出錯時要大改。
 3. 部分問題即使看過解答還是不理解原理(例如 752、403)，建議先跳過並在 Remark 備註就好，避免過度內耗導致學習停滯。
 
-目標：115/120
+目標：119/120
 
 ### Hash Table 雜湊表
 
@@ -252,9 +252,19 @@
 | [x] | 2024/06/24 | [2390. Removing Stars From a String]                | 透過 push(), pop() 完成篩選     |
 | [x] | 2024/06/25 | [735. Asteroid Collision]                           | 不完全理解                      |
 | [x] | 2024/06/25 | [394. Decode String]                                | 不完全理解                      |
-| []  |            | [933. Number of Recent Calls]                       |                                 |
-| []  |            | [649. Dota2 Senate]                                 |                                 |
+| [x] | 2024/07/01 | [933. Number of Recent Calls]                       | 不完全理解                      |
+| [x] | 2024/06/27 | [649. Dota2 Senate]                                 | Queue 與陣列方法                |
+| [x] | 2024/06/27 | [2095. Delete the Middle Node of a Linked List]     | 快慢指針，Linked List           |
+| [x] | 2024/07/01 | [328. Odd Even Linked List]                         | 理解 LinkedList 的重要範例      |
+| [x] | 2024/07/01 | [206. Reverse Linked List]                          |                                 |
+| []  |            | [2130. Maximum Twin Sum of a Linked List]           |                                 |
 | []  |            | []                                                  |                                 |
+| []  |            | []                                                  |                                 |
+| []  |            | []                                                  |                                 |
+| []  |            | []                                                  |                                 |
+| []  |            | []                                                  |                                 |
+| []  |            | []                                                  |                                 |
+| [x] | 2024/06/28 | [739. Daily Temperatures]                           | Monotonic stack                 |
 | []  |            | []                                                  |                                 |
 
 ---
