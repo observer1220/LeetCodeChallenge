@@ -16,7 +16,7 @@
 2. Test Case 有很多 Exception，建議解題過程盡量降低耦合度，以避免出錯時要大改。
 3. 部分問題即使看過解答還是不理解原理(例如 752、403)，建議先跳過並在 Remark 備註就好，避免過度內耗導致學習停滯。
 
-目標：119/120
+目標：121/180
 
 ### Hash Table 雜湊表
 
@@ -32,12 +32,11 @@
 
 ### Binary Tree 二元樹
 
-|     | DATE       | TOPIC                               | Remark |
-| :-- | :--------- | :---------------------------------- | :----- |
-| [x] | 2024/04/03 | [100. Same Tree]                    |        |
-| [x] | 2024/04/03 | [101. Symmetric Tree]               |        |
-| [x] | 2024/04/19 | [104. Maximum Depth of Binary Tree] |        |
-| []  |            | []                                  |        |
+|     | DATE       | TOPIC                 | Remark |
+| :-- | :--------- | :-------------------- | :----- |
+| [x] | 2024/04/03 | [100. Same Tree]      |        |
+| [x] | 2024/04/03 | [101. Symmetric Tree] |        |
+| []  |            | []                    |        |
 
 ### Queue 佇列
 
@@ -257,13 +256,14 @@
 | [x] | 2024/06/27 | [2095. Delete the Middle Node of a Linked List]     | 快慢指針，Linked List           |
 | [x] | 2024/07/01 | [328. Odd Even Linked List]                         | 理解 LinkedList 的重要範例      |
 | [x] | 2024/07/01 | [206. Reverse Linked List]                          |                                 |
-| []  |            | [2130. Maximum Twin Sum of a Linked List]           |                                 |
-| []  |            | []                                                  |                                 |
-| []  |            | []                                                  |                                 |
-| []  |            | []                                                  |                                 |
-| []  |            | []                                                  |                                 |
-| []  |            | []                                                  |                                 |
-| []  |            | []                                                  |                                 |
+| [x] | 2024/07/02 | [2130. Maximum Twin Sum of a Linked List]           | 將 LinkedList 轉為陣列的範例    |
+| [x] | 2024/04/19 | [104. Maximum Depth of Binary Tree]                 | Binary Tree - DFS 深度優先搜尋  |
+| [x] | 2024/07/02 | [872. Leaf-Similar Trees]                           | DFS                             |
+| [x] | 2024/07/02 | [1448. Count Good Nodes in Binary Tree]             | DFS                             |
+| []  | 2024/07/03 | [437. Path Sum III]                                 | DFS ，較前面幾題困難            |
+| []  |            | []                                                  | DFS                             |
+| []  |            | []                                                  | DFS                             |
+| []  |            | []                                                  | DFS                             |
 | [x] | 2024/06/28 | [739. Daily Temperatures]                           | Monotonic stack                 |
 | []  |            | []                                                  |                                 |
 
