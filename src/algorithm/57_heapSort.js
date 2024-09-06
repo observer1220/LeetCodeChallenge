@@ -18,7 +18,6 @@ function maxHeapify(i) {
   if (r <= heapSize && arr[r] > arr[largest]) {
     largest = r;
   }
-
   if (largest != i) {
     // swap A[i] with A[largest]
     let temp = arr[i];
@@ -43,6 +42,6 @@ function heapSort() {
 }
 
 let heapSize;
-let arr = [15, 3, 17, 18, 20, 2, 1, 666];
+let arr = [4, 1, 6, 10, 11, 3, 2, 14, 5, 13, 9, 7, 8, 12, 15];
 heapSort();
 console.log(arr);

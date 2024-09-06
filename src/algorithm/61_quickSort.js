@@ -1,31 +1,34 @@
-function partition(p, r) {
-  let x = arr[r]; // pivot
-  let i = p - 1;
-  for (let j = p; j <= r - 1; j++) {
-    if (arr[j] <= x) {
-      i += 1;
-      // swap arr[i] and arr[j]
-      let temp = arr[i];
-      arr[i] = arr[j];
-      arr[j] = temp;
+function partition(array, startIdx, endIdx) {
+  const pivot = array[endIdx];
+  let smallerElementIdx = startIdx - 1;
+
+  for (let currentIdx = startIdx; currentIdx < endIdx; currentIdx++) {
+    if (array[currentIdx] <= pivot) {
+      smallerElementIdx++;
+      // Swap array[smallerElementIdx] and array[currentIdx]
+      [array[smallerElementIdx], array[currentIdx]] = [
+        array[currentIdx],
+        array[smallerElementIdx],
+      ];
     }
   }
-  // swap arr[i+1] and arr[r]
-  let temp = arr[i + 1];
-  arr[i + 1] = arr[r];
-  arr[r] = temp;
+  // Swap array[smallerElementIdx + 1] and array[endIdx]
+  [array[smallerElementIdx + 1], array[endIdx]] = [
+    array[endIdx],
+    array[smallerElementIdx + 1],
+  ];
 
-  return i + 1;
+  return smallerElementIdx + 1;
 }
 
-function quickSort(p, r) {
-  if (p < r) {
-    let q = partition(p, r);
-    quickSort(p, q - 1);
-    quickSort(q + 1, r);
+function quickSort(array, startIdx, endIdx) {
+  if (startIdx < endIdx) {
+    const pivotIdx = partition(array, startIdx, endIdx);
+    quickSort(array, startIdx, pivotIdx - 1);
+    quickSort(array, pivotIdx + 1, endIdx);
   }
 }
 
 let arr = [15, 3, 17, -17, 3.1415, 18, 20, 2, 1, 666];
-quickSort(0, arr.length - 1);
+quickSort(arr, 0, arr.length - 1);
 console.log(arr);
