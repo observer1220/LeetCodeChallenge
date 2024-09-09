@@ -146,8 +146,11 @@ myLinkedList.push("Mike");
 myLinkedList.push("Harry");
 myLinkedList.push("James");
 myLinkedList.push("Kevin");
-
-console.log(myLinkedList.get(100));
-
-// myLinkedList.printAll();
-// console.log(myLinkedList.length);
+// myLinkedList.unshift("Alibaba");
+// myLinkedList.unshift("Sora");
+myLinkedList.insertAt(0, "Miley");
+myLinkedList.removeAt(0);
+console.log("GET", myLinkedList.get(2));
+// myLinkedList.pop();
+// myLinkedList.shift();
+myLinkedList.printAll();
